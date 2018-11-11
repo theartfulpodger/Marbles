@@ -1,0 +1,17 @@
+Step 1. (Setting up the shot)
+
+When you start your turn you will find your 'ghost' marble, you can move your ghost around the arena edge until you are happy with your position. Once you have found a position you are happy with press 'Enter/Return' to set your shot position, this will make your ghost a solid marble.
+
+Step 2. (Setting the direction)
+
+
+Once you have chosen your shooting position you will notice a blue aim line this is the direction your Marble will fire. To aim your shot you can turn left and right using either 'A' and 'D' or 'LeftArrow' and 'RightArrow'.
+
+
+Step 3. (Setting shot power)
+
+
+
+
+
+To shoot your marble you press and hold the "SPACE" key and your power will then start to increase (shown in top right of the screen) When you reach the desired power level you release the "SPACE" key and your marble will shoot.
